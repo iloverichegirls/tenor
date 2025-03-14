@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "page": "https://www.purina.com.au/dw/image/v2/BKFD_PRD/on/demandware.static/-/Sites-Purina_AU-Library/default/dwdaf1224d/images/Finding-a-pet/Pet-advice/Cat-article/ownership-cat/the-biggest-cat-breeds.png" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
